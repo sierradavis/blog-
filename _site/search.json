@@ -1,0 +1,13 @@
+{
+  "articles": [
+    {
+      "path": "index.html",
+      "title": "thoughts",
+      "description": "Post about all things data science\n",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2022-01-18T13:19:31-06:00"
+    }
+  ],
+  "collections": []
+}

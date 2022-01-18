@@ -1,0 +1,13 @@
+name: "sierra-blog"
+title: "/blog"
+description: |
+  my thoughts
+base_url: sierradavis.xyz
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - icon: fa fa-rss
+      href: index.xml
+output: distill::distill_article
+
